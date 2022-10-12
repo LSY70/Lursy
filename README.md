@@ -1,6 +1,6 @@
 ## Lursy
 > - Estudante
-> - IFSM
+> - IFMG
 > - 17 anos
 
 ## Linguagens
