@@ -1,5 +1,5 @@
 
-<h1 align="center"><img src="git.gif" heigth="40" width="40"> Lursy <img src="git.gif" heigth="40" width="40"></h1>
+<h1 align="center"><img src="git.gif" heigth="90" width="90"> Lursy <img src="git.gif" heigth="90" width="90"></h1>
 <p align="center" background="#222">
   Olá, meu nome é Matheus, tenho 18 anos e estou cursando o ensino técnico no Instituto Federal do sul de Minas.<br>
   Estudo programação a 3 anos, iniciando com python e apredendo do basico de outras linguagens como c++, js, php, etc...<br>
