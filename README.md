@@ -19,6 +19,17 @@
 </div>
 
 <div align="center">
+        <a href="https://github.com/Lursy">
+            <img src="https://komarev.com/ghpvc/?username=Lursy&color=blueviolet">
+            <img src="https://shields.io/github/stars/Lursy">
+            <img src="https://shields.io/github/followers/Lursy?label=Follow">
+        </a>
+        <a href="https://www.youtube.com/channel/UCwmkiKIZHL1wscYHfIINZKw">
+            <img src="https://shields.io/youtube/channel/subscribers/UCwmkiKIZHL1wscYHfIINZKw">
+        </a>
+</div>
+
+<div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Lursy&show_icons=true&title_color=fff&icon_color=30ff99&text_color=9f5&bg_color=222" /><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lursy&layout=compact&theme=shadow_green&hide_border=true&title_color=A7F5AA&icon_color=4CAF50&text_color=A7F5AA&bg_color=222428" />
 </div>
